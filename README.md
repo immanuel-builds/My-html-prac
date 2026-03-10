@@ -1,4 +1,4 @@
-# My-freecode-journey
+# My-html
 # Responsive Web Designing
 
 Built as part of the FreeCodeCamp 
